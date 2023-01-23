@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! 👋, Meu Nome e Thales</h1>
+<h1 align="center">Olá!👋</h1>
 
 <br>
 
