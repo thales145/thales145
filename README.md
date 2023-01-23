@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/thales145/gif/blob/main/animation_500_ld8xgfx1.gif?raw=truef" alt="thales" /></p>
 
 
 - 🌱Atualmente estou aprendendo Desenvolvimento Web e outras linguagens de programação
